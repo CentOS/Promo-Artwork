@@ -16,158 +16,11 @@
    inkscape:version="0.91pre0 r13343"
    viewBox="0 0 354.33069 354.33072"
    sodipodi:docname="tshirt-centos10-front.svg"
-   inkscape:export-filename="/home/tigert/SparkleShare/scratch-public/rdo-trystack-shirt/print/rdo-trystack-shirt-front-alternate.png"
+   inkscape:export-filename="/home/tigert/git/CentOS/Promo-Artwork/tshirts/centos-10/tshirt-centos10-front.png"
    inkscape:export-xdpi="522.60999"
    inkscape:export-ydpi="522.60999">
   <defs
-     id="defs4435">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter12389">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="1"
-         baseFrequency="0.64 0.64"
-         result="turbulence"
-         id="feTurbulence12391" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="1.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap12393" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter12377">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="1"
-         baseFrequency="0.64 0.64"
-         result="turbulence"
-         id="feTurbulence12379" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="1.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap12381" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter12383">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="1"
-         baseFrequency="0.64 0.64"
-         result="turbulence"
-         id="feTurbulence12385" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="1.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap12387" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter12371">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="1"
-         baseFrequency="0.64 0.64"
-         result="turbulence"
-         id="feTurbulence12373" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="1.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap12375" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter12395">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="1"
-         baseFrequency="0.64 0.64"
-         result="turbulence"
-         id="feTurbulence12397" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="1.1"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap12399" />
-    </filter>
-    <mask
-       maskUnits="userSpaceOnUse"
-       id="mask4546">
-      <g
-         id="g4548">
-        <rect
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           id="rect4550"
-           width="153.19357"
-           height="261.06445"
-           x="-34.096798"
-           y="-37.757141" />
-        <rect
-           y="0"
-           x="-2.0838218e-06"
-           height="199.99997"
-           width="84.999992"
-           id="rect4552"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      </g>
-    </mask>
-    <clipPath
-       id="clipPath5722"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         y="12.0611"
-         x="-1.4976002e-06"
-         height="17.638874"
-         width="52.832005"
-         id="rect5724"
-         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.05;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#3465a4;stroke-width:0.16933332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.0999999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-    </clipPath>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Roughen"
-       id="filter6503">
-      <feTurbulence
-         type="fractalNoise"
-         numOctaves="3"
-         seed="77"
-         baseFrequency="0.32 0.32"
-         result="turbulence"
-         id="feTurbulence6505" />
-      <feDisplacementMap
-         in="SourceGraphic"
-         in2="turbulence"
-         scale="3"
-         yChannelSelector="G"
-         xChannelSelector="R"
-         id="feDisplacementMap6507" />
-    </filter>
-  </defs>
+     id="defs4435" />
   <sodipodi:namedview
      id="base"
      pagecolor="#201e3a"
@@ -176,7 +29,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="-48.045446"
+     inkscape:cx="-396.04545"
      inkscape:cy="295.96185"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -199,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
